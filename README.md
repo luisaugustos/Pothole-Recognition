@@ -7,6 +7,17 @@ This is a deep learning model for detecting the potholes on roads. The model is 
 
 The total number of images in the dataset was 1362 images. Of these images, 70 percent were for training, 20 percent for validation, and 10 percent for testing the effectiveness of the trained model. The dataset is composed of the images and their respective labels, the application https://roboflow.ai was used to generate the dataset.
 
+You can download the images here
+https://app.roboflow.ai/ds/h9SGxHMxGT?key=0tUVCjSgNz
+
+In the dataset folder have all the images used to generate the dataset, including their respectives labels. 
+
+
+
+
+
+
+
 
 Please if you use this code in your work cite as
 ```
