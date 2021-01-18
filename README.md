@@ -10,7 +10,7 @@ The total number of images in the dataset was 1362 images. Of these images, 70 p
 You can download the images here
 https://app.roboflow.ai/ds/h9SGxHMxGT?key=0tUVCjSgNz
 
-In the dataset folder have all the images used to generate the dataset, including their respectives labels. 
+In the dataset folder have all the images original (500) that generated the dataset to `roboflow`, including their respectives labels. 
 
 
 
